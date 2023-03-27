@@ -6,5 +6,5 @@ Documentação tecnica do processo de instalação das ferramentas da Twiggy em 
 
 ## Conteúdo
 * Widget
-  * [1. Widget de busca](widget/search-button/README.md)
-  * [2. Widget de busca por similares](widget/similar-button/README.md)
+  * [1. Botão de busca](widget/search-button/README.md)
+  * [2. Buscar por URL predefinida](widget/similar-button/README.md)
