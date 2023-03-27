@@ -14,11 +14,11 @@ Substitua o `<TENTANT_ID>` pelo tenant id fornecido para você.
 </script>
 ```
 
-É possível injetar o script através de um gerenciador de scripts, porém até a finalização do loading do script, o botão irá estar inoperante.
+É possível injetar o script através de um gerenciador de scripts, porém até a finalização do loading do script, o botão estará inoperante.
 
 ## Crie o botão
 
-Após injetar o código acima na página, você precisara criar um elemento `<button></button>` com um atributo `data-tw-target="true"`. Usamos esse atributo para saber qual é o elemento que irá abrir o widget.
+Após injetar o código acima na página, você precisará criar um elemento `<button></button>` com um atributo `data-tw-target="true"`. Usamos esse atributo para saber qual é o elemento que irá abrir o widget.
 
 ```
 <button data-tw-target="true">Buscar por foto</button>

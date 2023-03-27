@@ -1,7 +1,7 @@
 # Twiggys Docs
 
 ## Overview
-Documentação tecnica do processo de instalação das ferramentas da Twiggy em seu site.
+Documentação técnica do processo de instalação das ferramentas da Twiggy em seu site.
 </br></br>Compartilhe-as com seu time de tecnologia.
 
 ## Conteúdo

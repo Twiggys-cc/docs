@@ -1,4 +1,4 @@
-# 1. Injetando o botão de busca por similares
+# 1. Injetando o botão de busca por URL predefinida
 
 ## Injete o código javascript no seu site
 Usamos um script Javascript para abrir o iframe do nosso widget em seu site.
@@ -14,12 +14,12 @@ Substitua o `<TENTANT_ID>` pelo tenant id forcedo para você.
 </script>
 ```
 
-É possível injetar o script através de um gerenciador de scripts, porém até a finalização do loading do script, o botão irá estar inoperante.
+É possível injetar o script através de um gerenciador de scripts, porém até a finalização do loading do script, o botão estará inoperante.
 
 ## Crie o botão
-Após injetar o código acima na página, você precisara criar um elemento `<button></button>` que irá disparar um evento para nosso widget com a URL da foto a ser usada como parâmetro de pesquisa.</br>
+Após injetar o código acima na página, você precisará criar um elemento `<button></button>` que irá disparar um evento para nosso widget com a URL da foto a ser usada como parâmetro de pesquisa.</br>
 Substitua o `URL_DA_SUA_IMAGEM` dentro do `data-tw-image` pela URL da imagem mostrada ao usuário.
-O clique irá dispoarar um evento que será recebido pelo nosso widget.
+O clique irá disparar um evento que será recebido pelo nosso widget.
 
 ```
 <button data-tw-image="URL_DA_SUA_IMAGEM" onclick="__TWIGGY__.widgetSearchByUrl(event)">
