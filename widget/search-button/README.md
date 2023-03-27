@@ -2,7 +2,7 @@
 
 ### Injete o código javascript no seu site
 Usamos um script Javascript para abrir o iframe do nosso widget em seu site.
-Substitua o `<TENTANT_ID>` pelo tenant id forcedo para você.
+Substitua o `<TENTANT_ID>` pelo tenant id fornecido para você.
 
 ```
 <script 
