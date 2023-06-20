@@ -8,3 +8,5 @@ Documentação técnica do processo de instalação das ferramentas da Twiggy em
 * Widget
   * [1. Botão de busca](widget/search-button/README.md)
   * [2. Buscar por URL predefinida](widget/similar-button/README.md)
+* VTEX
+  * [1. Adicionar a Twiggy como afiliada](vtex/affiliates/README.md)
