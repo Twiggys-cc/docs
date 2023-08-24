@@ -1,5 +1,7 @@
 # Twiggys Docs
 
+![Twiggy logo](https://dashboard.twiggys.cc/twiggy_black.png)
+
 ## Overview
 Documentação técnica do processo de instalação das ferramentas da Twiggy em seu site.
 </br></br>Compartilhe-as com seu time de tecnologia.
