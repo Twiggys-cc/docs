@@ -1,4 +1,4 @@
-# 1. Injetando o botão de buscas
+# 1. Injetando o botão de busca por foto
 
 ### Injete o código javascript no seu site
 Usamos um script Javascript para abrir o iframe do nosso widget em seu site.
