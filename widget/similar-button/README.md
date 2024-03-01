@@ -1,4 +1,4 @@
-# 1. Injetando o botão de busca por URL predefinida
+# 1. Injetando o botão de busca por similar na pdp (página de produto)
 
 ## Injete o código javascript no seu site
 Usamos um script Javascript para abrir o iframe do nosso widget em seu site.
