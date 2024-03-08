@@ -2,14 +2,14 @@
 
 ## Injete o código javascript no seu site
 Usamos um script Javascript para abrir o iframe do nosso widget em seu site.
-Substitua o `<TENTANT_ID>` pelo tenant id fornecido para você.
+Substitua o `<TENANT_ID>` pelo tenant id fornecido para você.
 
 ```
 <script 
    src="https://widget.twiggys.cc/widget.js" 
    id="tw-widget-sb" 
    async="" 
-   data-tenant-id="<TENTANT_ID>" 
+   data-tenant-id="<TENANT_ID>" 
    data-target-sel='[data-tw-target="true"]'>
 </script>
 ```
