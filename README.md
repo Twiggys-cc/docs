@@ -10,6 +10,8 @@ Documentação técnica do processo de instalação das ferramentas da Twiggy em
 * Widget
   * [1. Botão de busca por foto](widget/search-button/README.md)
   * [2. Botão de busca por similar na pdp (página de produto)](widget/similar-button/README.md)
+* Similar na medida
+  * [1. Botão de busca por tamanho](similar-in-measure/README.md)
 * VTEX
   * [1. Adicionar a Twiggy como afiliada](vtex/affiliates/README.md)
 * API
