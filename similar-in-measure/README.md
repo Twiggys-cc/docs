@@ -13,7 +13,7 @@ Para incorporar a funcionalidade de busca por tamanho, insira o seguinte código
 </script>
 ```
 
-** Não é necessário reinserir o script se já estiver presente.
+> Não é necessário reinserir o script se já estiver presente.
 
 ## Crie o botão
 Crie um elemento <button></button> conforme abaixo. Substitua `URL_DA_SUA_IMAGEM` pela URL da imagem do produto que deseja encontrar similares e `TAMANHO_SELECIONADO` pelo tamanho desejado.
@@ -35,4 +35,7 @@ Você também pode implementar o botão usando a seguinte estrutura:
   </button>
 ```
 
-Pronto! Com estas instruções, seus usuários poderão encontrar produtos similares com base em tamanho.
+Pronto! Com estas instruções seus usuários poderão encontrar produtos similares com base no tamanho.
+
+## Confira o exemplo
+[Codepen](https://codepen.io/twiggy-ai/pen/WNWmxZQ)
